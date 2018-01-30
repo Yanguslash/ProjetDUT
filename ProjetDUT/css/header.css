@@ -1,0 +1,34 @@
+header {
+    background-color: rgb(136, 220, 226);
+}
+
+header img {
+    width: 100%;
+    height: auto;
+    max-width: 250px;
+    min-width: 150px;
+    margin-top: 7px;
+    margin-bottom: 7px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.profile-link {
+    background-color: rgba(0, 0, 0, 0.6);
+    color: white;
+    text-align: center;
+    border-radius: 5px;
+    margin-top: 7px;
+    margin-bottom: 7px;
+}
+
+.profile-link a {
+    text-decoration: none;
+    color: white;
+}
+
+.profile-link a:hover {
+    text-decoration: underline;
+    color: white;
+}

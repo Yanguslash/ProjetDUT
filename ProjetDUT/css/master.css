@@ -1,0 +1,89 @@
+header {
+    background-color: rgb(136, 220, 226);
+}
+
+header img {
+    width: auto;
+    height: 100px;
+    margin-top: 7px;
+    margin-bottom: 7px;
+}
+
+body {
+    margin: 0px;
+    background-image: url(../img/fond.jpg);
+    font-family: 'Roboto', sans-serif;
+}
+
+.connect {
+    margin-top: 10%;
+}
+
+.form-control {
+    height: 40px;
+    margin-bottom: 10px;
+}
+
+p,
+h1,
+h2,
+a {
+    color: white;
+    text-decoration: none;
+}
+
+h1 {
+    font-size: 25px;
+}
+
+.student {
+    background-color: rgba(0, 0, 0, 0.6);
+    padding-left: 5%;
+    padding-right: 5%;
+    border-radius: 10px;
+    padding-bottom: 10px;
+}
+
+.compagny {
+    margin-top: 17%;
+    background-color: rgba(0, 0, 0, 0.6);
+    padding-left: 5%;
+    padding-right: 5%;
+    border-radius: 10px;
+    padding-bottom: 17px;
+}
+
+.footer {
+    display: block;
+    background-color: rgba(0, 0, 0, 0.6);
+    width: 100%;
+    position: fixed;
+    bottom: 0%;
+}
+
+.submit {
+    width: 200px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    border-radius: 5px;
+    height: 30px;
+    color: white;
+}
+
+input {
+    border-radius: 0px;
+    height: 25px;
+}
+
+.titre {
+    padding-top: 5px;
+    text-align: center;
+    font-size: 27px;
+}
+
+.label {
+    text-align: center;
+    font-size: 17px;
+    color: white;
+}
